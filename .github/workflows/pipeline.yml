@@ -47,4 +47,18 @@ jobs:
 
     - name: Run Tests
       run: dotnet test --no-build --verbosity normal
+  set-up-dotnet:
+   runs-on: ubuntu-latest  # Specifies the environment to run the job
+   steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
 
+    - name: Setup .NET 6
+      uses: actions/setup-dotnet@v2
+      with:
+        dotnet-version: '6.x'  # Install .NET 6.x
+
+    - name: Setup .NET 7
+      uses: actions/setup-dotnet@v2
+      with:
+        dotnet-version: '7.x'  # Install .NET 7.x
