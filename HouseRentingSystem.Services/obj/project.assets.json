@@ -2253,11 +2253,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lasss\\Desktop\\08-Exercise-CI-CD-GitHub-Actions-Resources\\08-Exercise-CI-CD-GitHub-Actions-Resources\\04-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
+      "projectUniqueName": "C:\\Users\\lasss\\Desktop\\HouseRentingJenkinsfile\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
       "projectName": "HouseRentingSystem.Services",
-      "projectPath": "C:\\Users\\lasss\\Desktop\\08-Exercise-CI-CD-GitHub-Actions-Resources\\08-Exercise-CI-CD-GitHub-Actions-Resources\\04-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
+      "projectPath": "C:\\Users\\lasss\\Desktop\\HouseRentingJenkinsfile\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
       "packagesPath": "C:\\Users\\lasss\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lasss\\Desktop\\08-Exercise-CI-CD-GitHub-Actions-Resources\\08-Exercise-CI-CD-GitHub-Actions-Resources\\04-House-Renting-System-App\\HouseRentingSystem.Services\\obj\\",
+      "outputPath": "C:\\Users\\lasss\\Desktop\\HouseRentingJenkinsfile\\HouseRentingSystem.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

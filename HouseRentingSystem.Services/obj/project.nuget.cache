@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LSaYo1R/1t8=",
+  "dgSpecHash": "LVK4NRaj0VQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lasss\\Desktop\\08-Exercise-CI-CD-GitHub-Actions-Resources\\08-Exercise-CI-CD-GitHub-Actions-Resources\\04-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
+  "projectFilePath": "C:\\Users\\lasss\\Desktop\\HouseRentingJenkinsfile\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lasss\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\lasss\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

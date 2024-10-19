@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HouseRentingSystem.Tests
-build_property.ProjectDir = C:\Users\lasss\Desktop\08-Exercise-CI-CD-GitHub-Actions-Resources\08-Exercise-CI-CD-GitHub-Actions-Resources\04-House-Renting-System-App\HouseRentingSystem.Tests\
+build_property.ProjectDir = C:\Users\lasss\Desktop\HouseRentingJenkinsfile\HouseRentingSystem.Tests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
